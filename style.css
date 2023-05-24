@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    color: white;
+}
+
+.logo {
+
+}
+
+.right-links {
+color: white;
+}
+
+.linkcolor {
+    color: white;
+}
+
+.section1 {
+    background-color: #1F2937;
+}
+
+
+.section2 {
+}
+
+.section3 {
+}
+
+.section4 {
+}
+
+.footer {
+}
