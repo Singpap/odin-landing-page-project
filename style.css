@@ -8,24 +8,44 @@ body {
     justify-content: space-between;
     background-color: #1F2937;
     color: white;
+    padding: 10px 50px;
 }
 
 .logo {
-
+font-size: 24px;
+corlor: #F9FAf8;
+font-weight: 700;
 }
 
 .right-links {
-color: white;
+display: flex;
+    color: white;
+    font-size: 18px;
+    justify-content: space-between;
+    gap: 10px;
 }
 
 .linkcolor {
     color: white;
+    text-decoration: none;
 }
 
 .section1 {
     background-color: #1F2937;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
+.section1title {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+/* dis not working, kig i odin hvordan de tidligere har lavet knapper */
+.button {
+    background-color: #3882f6;
+}
 
 .section2 {
 }
