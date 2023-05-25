@@ -42,7 +42,6 @@ display: flex;
     font-weight: 900;
 }
 
-/* dis not working, kig i odin hvordan de tidligere har lavet knapper */
 .button {
     background-color: #3882f6;
 }
