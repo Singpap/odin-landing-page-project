@@ -3,6 +3,19 @@ body {
     flex-direction: column;
 }
 
+.flexbox {
+    display: flex;
+}
+
+.flexboxcolumn {
+    display: flex;
+    flex-direction: column;
+}
+
+.image {
+    flex: 0;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -34,6 +47,9 @@ display: flex;
     background-color: #1F2937;
     font-size: 18px;
     color: #e5e7eb;
+    display: flex;
+    gap: 25px;
+    align-items: center;
 }
 
 .section1title {
