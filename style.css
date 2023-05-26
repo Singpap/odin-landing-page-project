@@ -50,26 +50,43 @@ display: flex;
     display: flex;
     gap: 25px;
     align-items: center;
+    padding: 10px 50px;
 }
 
 .section1title {
     font-size: 48px;
     color: #f9faf8;
     font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.section1text {
+    margin-bottom: 10px;
 }
 
 .button {
     background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    height: 30px;
+    color: white;
+    padding: 20px 15px;
 }
 
 .section2 {
+    padding: 10px 50px;
 }
 
 .section3 {
+    padding: 10px 50px;
 }
 
 .section4 {
+    padding: 10px 50px;
 }
 
 .footer {
+    padding: 10px 50px;
 }
