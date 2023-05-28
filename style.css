@@ -48,7 +48,6 @@ font-weight: 700;
     background-color: #1F2937;
     font-size: 18px;
     color: #e5e7eb;
-    width: 1500px;
 }
 
 .section1nonheader {
@@ -94,6 +93,12 @@ font-weight: 700;
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+}
+
+.textsection2 {
+    display: flex;
+    justify-content: center;
+    margin: 0px 10px 15px 0px;
 }
 
 .sectionsector2 {
