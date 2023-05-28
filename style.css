@@ -16,13 +16,13 @@ body {
     flex: 0;
 }
 
+/* header part of section 1*/
+
 .header {
     display: flex;
-    justify-content: space-between;
     background-color: #1F2937;
     color: white;
-    padding: 10px 50px;
-}
+    }
 
 .logo {
 font-size: 24px;
@@ -31,10 +31,9 @@ font-weight: 700;
 }
 
 .right-links {
-display: flex;
+
     color: white;
     font-size: 18px;
-    justify-content: space-between;
     gap: 10px;
 }
 
@@ -49,11 +48,14 @@ display: flex;
     background-color: #1F2937;
     font-size: 18px;
     color: #e5e7eb;
+    width: 1500px;
+}
+
+.section1nonheader {
     display: flex;
-    gap: 25px;
-    align-items: center;
-    padding: 10px 50px;
     justify-content: center;
+    align-items: center;
+    gap: 30px;
 }
 
 .section1title {
