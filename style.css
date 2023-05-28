@@ -51,6 +51,7 @@ display: flex;
     gap: 25px;
     align-items: center;
     padding: 10px 50px;
+    justify-content: center;
 }
 
 .section1title {
@@ -78,6 +79,17 @@ display: flex;
 .section2 {
     padding: 10px 50px;
 }
+
+.header2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+
+}
+
 
 .section3 {
     padding: 10px 50px;
