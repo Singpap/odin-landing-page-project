@@ -43,6 +43,8 @@ display: flex;
     text-decoration: none;
 }
 
+/* Section 1 stuff starts here*/
+
 .section1 {
     background-color: #1F2937;
     font-size: 18px;
@@ -76,8 +78,11 @@ display: flex;
     padding: 20px 15px;
 }
 
+/* Section 2 stuff starts here*/
+
 .section2 {
     padding: 10px 50px;
+    background-color: aquamarine;
 }
 
 .header2 {
@@ -87,17 +92,49 @@ display: flex;
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+}
+
+.sectionsector2 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
 
 }
 
+.section2boks {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    }
+
+.imagesection2 {
+    height: 150px;
+    width: 150px;
+    border: 5px solid lightskyblue;
+    border-radius: 10px;
+}
+
+.tekstunderpicture {
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+
+/* Section 3 stuff starts here*/
 
 .section3 {
     padding: 10px 50px;
 }
 
+/* Section 4 stuff starts here*/
+
 .section4 {
     padding: 10px 50px;
 }
+
+/* footer stuff starts here*/
 
 .footer {
     padding: 10px 50px;
