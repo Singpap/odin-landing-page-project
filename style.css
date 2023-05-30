@@ -212,3 +212,25 @@ font-weight: 700;
     color: white;
 
 }
+
+/* links styles*/
+
+.link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 700;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+}
